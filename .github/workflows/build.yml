@@ -1,4 +1,4 @@
-name: SonarCloud
+name: Test Code Coverage
 on:
   push:
     branches:
